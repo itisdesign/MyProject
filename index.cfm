@@ -1,0 +1,3 @@
+<cfscript>
+  writeOutput(now());
+</cfscript>
