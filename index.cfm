@@ -1,3 +1,3 @@
 <cfscript>
-  writeOutput(now());
+  writeOutput('The time is ' & now());
 </cfscript>
